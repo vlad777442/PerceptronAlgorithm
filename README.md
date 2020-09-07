@@ -1,6 +1,6 @@
 # Perceptron Algorithm
   The learning algorithm distinguishes one digit from the rest.
-  ![alt text](digits.png "Описание будет тут")
+  ![alt text](digits.jpg "Description")
   001  111  111  101  111  111  111  111  111  111
   001  001  001  101  100  100  001  101  101  101
   001  111  111  111  111  111  001  111  111  101
