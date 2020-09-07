@@ -4,8 +4,6 @@ import math
 import matplotlib.pyplot as plt
 import numpy as np
  
- 
- 
 numbers = [[1,1,1,1,0,1,1,0,1,1,0,1,1,1,1], 
           [0,0,1,0,0,1,0,0,1,0,0,1,0,0,1], 
           [1,1,1,0,0,1,1,1,1,1,0,0,1,1,1], 
@@ -49,4 +47,4 @@ for i in range(10):
     print ("Digit: " + str(i) + " prediction: " + str(predict(numbers, b, i)))
   
 for i in range(4):
-  print ("Искаженное изображение цифры 3: предсказание: " + str(predict(n3s, b, i)))
+  print ("Distorted image of number 3: prediction: " + str(predict(n3s, b, i)))
