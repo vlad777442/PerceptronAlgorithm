@@ -29,7 +29,7 @@ def predict(x, b, iter):
   
   z = b + s
   return 1 if z >= b else 0
- 
+
 for i in range(1000):
   for j in range(10):
     if j == 3: 
