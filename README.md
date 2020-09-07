@@ -8,14 +8,13 @@
   001  100  001  001  001  101  001  101  001  101
   001  111  111  001  111  111  001  111  111  111
     
-  Input data:
+  Input data:  
   1 – 001001001001001
   ...................
   9 – 111101111001111
   0 – 111101101101111
   
-  The perceptron will be a single neuron with 15 inputs and an activation threshold function. 
-  
+  The perceptron will be a single neuron with 15 inputs and an activation threshold function.   
   The parameters of the perceptron will be one array W - 15 weights - and the threshold value b.
   
   The perceptron learning algorithm is as follows:
