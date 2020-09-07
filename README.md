@@ -1,5 +1,5 @@
 # Perceptron Algorithm
-  The learning algorithm distinguishes one digit from the rest.
+  The learning algorithm distinguishes one digit from the rest.  
   ![alt text](digits.jpg "Description")
   
   001  111  111  101  111  111  111  111  111  111
@@ -9,10 +9,10 @@
   001  111  111  001  111  111  001  111  111  111
     
   Input data:  
-  1 – 001001001001001
-  ...................
-  9 – 111101111001111
-  0 – 111101101101111
+  1 – 001001001001001  
+  ...................  
+  9 – 111101111001111  
+  0 – 111101101101111  
   
   The perceptron will be a single neuron with 15 inputs and an activation threshold function.   
   The parameters of the perceptron will be one array W - 15 weights - and the threshold value b.
